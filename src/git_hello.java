@@ -10,5 +10,6 @@ public class git_hello {
         System.out.println("hello git123!!!");
         System.out.println("hello git666!!!");
         System.out.println("hello git888!!!");
+        System.out.println("hello git222222");
     }
 }
