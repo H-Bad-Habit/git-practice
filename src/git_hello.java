@@ -7,9 +7,9 @@ public class git_hello {
         System.out.println("hello git!!!");
         System.out.println("hello gitee!!!");
         System.out.println("hello github!!!");
-        System.out.println("hello git123!!!");
         System.out.println("hello git666!!!");
         System.out.println("hello git888!!!");
         System.out.println("hello git222222");
+        System.out.println("master git");
     }
 }
