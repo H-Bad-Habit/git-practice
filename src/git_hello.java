@@ -15,5 +15,8 @@ public class git_hello {
         System.out.println("hot-fix git333333");
         System.out.println("hot-fix git push");
         System.out.println("hot-fix git push");
+        System.out.println("hot-fix git pull");
+        System.out.println("hot-fix git pull");
+        
     }
 }
